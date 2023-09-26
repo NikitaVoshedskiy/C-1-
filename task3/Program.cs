@@ -85,3 +85,38 @@ break;
 }
 }
 */
+
+// Вариант 2
+
+// if (nomer == 1)
+// {
+// Console.WriteLine("понедельник");
+// }
+// else if (nomer == 2)
+// {
+// Console.WriteLine("вторник");
+// }
+// else if (nomer == 3)
+// {
+// Console.WriteLine("среда");
+// }
+// else if (nomer == 4)
+// {
+// Console.WriteLine("четверг");
+// }
+// else if (nomer == 5)
+// {
+// Console.WriteLine("пятница");
+// }
+// else if (nomer == 6)
+// {
+// Console.WriteLine("суббота");
+// }
+// else if (nomer == 7)
+// {
+// Console.WriteLine("воскресенье");
+// }
+// else
+// {
+// Console.WriteLine("нет такого дня недели");
+// }

@@ -5,7 +5,7 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число №3:");
 int num3 = Convert.ToInt32(Console.ReadLine());
 
-Вариант №1
+//Вариант №1
 int max = num1;
 
 if (num1>max) max = num1;

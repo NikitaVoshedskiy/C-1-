@@ -1,0 +1,3 @@
+//System.Console.WriteLine(Math.Pow(num,2)); // Math.Pow() - возведение в степень
+//System.Console.WriteLine(Math.Sqrt(num,2)); // Math.Sqrt() - Извлечение квадратного корня
+//Math.Round(num,3) - округление дробного числа до 3 цифры после запятой

@@ -1,3 +1,6 @@
 //System.Console.WriteLine(Math.Pow(num,2)); // Math.Pow() - возведение в степень
 //System.Console.WriteLine(Math.Sqrt(num,2)); // Math.Sqrt() - Извлечение квадратного корня
 //Math.Round(num,3) - округление дробного числа до 3 цифры после запятой
+//int number = Convert.ToInt32(Console.ReadLine());
+//int number = Math.Abs(Convert.ToInt32(Console.ReadLine())); Math.Abs - модуль числа, убирает минус у числа
+//string num = Convert.ToString(N); - 123 == "123" переводит из числа в строку

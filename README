@@ -4,3 +4,6 @@
 //int number = Convert.ToInt32(Console.ReadLine());
 //int number = Math.Abs(Convert.ToInt32(Console.ReadLine())); Math.Abs - модуль числа, убирает минус у числа
 //string num = Convert.ToString(N); - 123 == "123" переводит из числа в строку
+
+// task4.4 и DZ_4.3 по массивам 
+//task 5.1.2 показывает как вернуть из void значения
